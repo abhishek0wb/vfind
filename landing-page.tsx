@@ -214,7 +214,7 @@ export default function LandingPage() {
 
           <button
             onClick={() => {
-              toast.success("github.com/abhinav0git/vfind",
+              toast.success("github.com/abhishek0wb/vfind",
                 {
                   duration: 4000,
                   position: "bottom-center",
