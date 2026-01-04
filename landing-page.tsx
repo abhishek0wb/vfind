@@ -753,7 +753,7 @@ export default function LandingPage() {
                   wip!
                 </span>
               </a>
-              <a href="mailto:abhinav07c@gmail.com" className="text-sm text-slate-600 dark:text-slate-400 hover:text-primary transition-colors">
+              <a href="mailto:abhishek0wb@gmail.com" className="text-sm text-slate-600 dark:text-slate-400 hover:text-primary transition-colors">
                 Contact
               </a>
             </div>
